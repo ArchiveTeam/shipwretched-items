@@ -1,4 +1,4 @@
 shipwretched-items
 ==================
 
-Tracker item name lists for Yahoo! Blog and Wetch.cc
+Tracker item name lists for Yahoo! Blog and Wretch.cc on ArchiveTeam
